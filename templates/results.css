@@ -1,0 +1,8 @@
+div {
+    background-color: silver;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+}
